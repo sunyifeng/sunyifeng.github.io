@@ -6,7 +6,7 @@ on:
       - main
 
 permissions:
-  contents: write  # ✅ 允许 GitHub Actions 写入仓库
+  contents: write
 
 jobs:
   deploy:
