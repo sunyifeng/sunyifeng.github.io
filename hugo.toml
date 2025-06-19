@@ -3,12 +3,15 @@ languageCode = "zh-CN"
 title = "孙艺峰博客"
 theme = "PaperMod"
 
+[outputs]
+home = ["HTML", "RSS"]
+
 [params]
   ShowReadingTime = true
   ShowToc = true
   ShowShareButtons = true
   defaultTheme = "auto"
-  mainSectios = "posts"
+  mainSections = ["posts"]   # ✅ 拼写修复并改为数组
 
 [menu]
   [[menu.main]]
