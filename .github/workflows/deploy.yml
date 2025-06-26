@@ -28,7 +28,6 @@ jobs:
       - name: "Deploy to GitHub Pages"
         uses: peaceiris/actions-gh-pages@v4
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
           # 1. 用内置的 GITHUB_TOKEN，已对本仓库有写权限
           github_token: ${{ secrets.GITHUB_TOKEN }}
           # 2. 指定要推送到的分支：gh-pages
