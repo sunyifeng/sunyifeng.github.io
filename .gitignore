@@ -1,0 +1,10 @@
+# Hugo 构建输出，不要提交
+/public/
+
+# Hugo 资源缓存
+/resources/
+/.hugo_build.lock
+
+# 编辑器/系统
+.vscode/
+.DS_Store
