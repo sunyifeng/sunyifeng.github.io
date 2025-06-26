@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sunyifeng.github.io/sitemap.xml
