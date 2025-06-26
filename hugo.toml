@@ -1,4 +1,83 @@
 theme = "ananke"
 baseURL = "https://sunyifeng.github.io"
 languageCode = "zh-cn"
-title = "我的 Hugo 站点"
+title = "sunyifeng's blog"
+resourceDir = "../resources"
+
+#DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+googleAnalytics = ""
+enableRobotsTXT = true
+
+[pagination]
+  pagerSize = 3
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  text_color = ""
+  author = ""
+  favicon = ""
+  site_logo = ""
+  description = "Blogger my life"
+  background_color_class = "bg-black"
+  recent_posts_number = 3
+  commentoEnable = true
+
+  [[params.ananke_socials]]
+    name = "twitter"
+    url = "https://twitter.com/syf1988"
+
+[services.disqus]
+  shortname = 'syf'
+
+
+
+
+# 定义菜单
+[menu]
+
+  # 主导航菜单
+  [[menu.main]]
+    identifier = "home"              # 唯一 ID，可在模板中引用
+    name       = "首页"              # 显示名称
+    url        = "/"                 # 链接地址
+    weight     = 1                   # 排序权重，数字越小越靠前
+
+  [[menu.main]]
+    identifier = "posts"
+    name       = "文章"
+    url        = "/posts/"
+    weight     = 2
+
+    # 二级子菜单
+    [[menu.main]]
+      parent   = "posts"              # 指定归属到哪个父级
+      identifier = "getting-started"
+      name       = "快速开始"
+      url        = "/docs/getting-started/"
+      weight     = 1
+
+    [[menu.main]]
+      parent   = "posts"
+      identifier = "config"
+      name       = "配置项"
+      url        = "/docs/configuration/"
+      weight     = 2
+
+
+  [[menu.main]]
+    identifier = "categories"
+    name       = "分类"
+    url        = "/categories/"
+    weight     = 3
+
+  [[menu.main]]
+    identifier = "about"
+    name       = "关于"
+    url        = "/about/"
+    weight     = 4
+
