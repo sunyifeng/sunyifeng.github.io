@@ -1,0 +1,4 @@
+theme = "ananke"
+baseURL = "https://sunyifeng.github.io"
+languageCode = "zh-cn"
+title = "我的 Hugo 站点"

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 我的 Hugo 站点</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on 我的 Hugo 站点</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 26 Jun 2025 22:30:42 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>http://localhost:1313/posts/hello-world/</link>
+      <pubDate>Thu, 26 Jun 2025 22:30:42 +0800</pubDate>
+      <guid>http://localhost:1313/posts/hello-world/</guid>
+      <description>&lt;p&gt;欢迎来到我的博客！在这篇文章中，我想用世界各地的语言向每一位访问者问好，希望你们都能感受到我的热情与友好。下面，让我们一起聆听来自不同文化的“你好，很高兴见到你”吧。&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;中文 (Chinese)：&lt;/strong&gt; 你好，很高兴见到你！&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;English (英语)：&lt;/strong&gt; Hello, nice to meet you!&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Español (西班牙语)：&lt;/strong&gt; ¡Hola, mucho gusto!&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Français (法语)：&lt;/strong&gt; Bonjour, ravi de vous rencontrer !&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Deutsch (德语)：&lt;/strong&gt; Hallo, schön, Sie kennenzulernen!&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;日本語 (日语)：&lt;/strong&gt; こんにちは、お会いできてうれしいです。&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Русский (俄语)：&lt;/strong&gt; Привет, рад познакомиться!&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;हिन्दी (印地语)：&lt;/strong&gt; नमस्ते, आपसे मिलकर खुशी हुई!&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;العربية (阿拉伯语)：&lt;/strong&gt; مرحبا، سعيد بلقائك!&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Português (葡萄牙语)：&lt;/strong&gt; Olá, prazer em conhecê-lo!&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;한국어 (韩语)：&lt;/strong&gt; 안녕하세요, 만나서 반갑습니다!&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Italiano (意大利语)：&lt;/strong&gt; Ciao, piacere di conoscerti!&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Türkçe (土耳其语)：&lt;/strong&gt; Merhaba, tanıştığımıza memnun oldum!&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Nederlands (荷兰语)：&lt;/strong&gt; Hallo, leuk je te ontmoeten!&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Svenska (瑞典语)：&lt;/strong&gt; Hej, trevligt att träffas!&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;ไทย (泰语)：&lt;/strong&gt; สวัสดี ยินดีที่ได้พบคุณ!&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Bahasa Indonesia (印尼语)：&lt;/strong&gt; Halo, senang bertemu denganmu!&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Polski (波兰语)：&lt;/strong&gt; Cześć, miło cię poznać!&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Ελληνικά (希腊语)：&lt;/strong&gt; Γεια σας, χαίρομαι που σας γνωρίζω!&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;فارسی (波斯语)：&lt;/strong&gt; سلام، خوشبختم از ملاقات شما!&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;无论你来自哪里，语言的不同都无法阻隔真挚的问候。希望这份来自世界各地的“你好”能让你感受到一份全球村的温暖。如果你喜欢这篇文章，欢迎在下方留言，告诉我你的母语问候语是什么！我们下次再见，祝你有美好的一天！😊&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
