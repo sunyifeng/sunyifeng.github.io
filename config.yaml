@@ -127,18 +127,22 @@ menu:
       name: tags
       url: /tags/
       weight: 20
-    - identifier: 
+    - identifier: series 
       name: series
       url: /series/
       weight: 30
-    - identifier: about
-      name: About
-      url: /about/
+    - identifier: notes
+      name: notes
+      url: /notes/
       weight: 40
+    - identifier: about
+      name: about
+      url: /about/
+      weight: 50
     - identifier: example
       name: example.org
       url: https://example.org
-      weight: 50
+      weight: 60
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
@@ -155,3 +159,4 @@ taxonomies:
   category: categories
   tag: tags
   series: series
+  note: notes
