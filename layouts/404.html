@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Not Found</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    html, body {
+      margin: 0;
+      padding: 0;
+      background: #fafafa;
+      color: #333;
+      font-family: Georgia, 'Times New Roman', serif;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      text-align: center;
+    }
+    h1 {
+      font-size: 4rem;
+      margin-bottom: 1rem;
+    }
+    #quote {
+      font-size: 1.1rem;
+      max-width: 480px;
+      opacity: 0.8;
+      line-height: 1.6;
+      transition: opacity 0.5s ease;
+    }
+    .signature {
+      margin-top: 3rem;
+      font-style: italic;
+      font-size: 0.95rem;
+      color: #888;
+    }
+    img {
+      margin-top: 2rem;
+      width: 32px;
+      opacity: 0.4;
+    }
+    a {
+      color: #666;
+      text-decoration: none;
+      border-bottom: 1px dotted #aaa;
+    }
+    a:hover {
+      color: black;
+    }
+  </style>
+</head>
+<body>
+  <h1>404</h1>
+  <p id="quote">You’ve found the undefined...</p>
+
+  <div class="signature">
+    I am neither defined nor missing. Just… present.
+  </div>
+
+  <img src="/img/seal.svg" alt="seal" />
+
+  <div style="margin-top: 3rem;">
+    <a href="/">Return to the beginning</a>
+  </div>
+
+  <script>
+    const quotes = [
+      "You’ve found the undefined. But maybe, it found you.",
+      "Not all who wander are lost… but some pages are.",
+      "Absence is a form of presence, too.",
+      "This is not where you meant to be. But maybe it's where you're needed.",
+      "In logic, false. In life, maybe true.",
+      "No page here. But awareness arose.",
+      "It wasn’t found — yet you found something.",
+      "Even emptiness has a URL.",
+      "The void you seek is... elsewhere.",
+      "Undefined. Unexpected. Unavoidable."
+    ];
+    document.getElementById("quote").innerText =
+      quotes[Math.floor(Math.random() * quotes.length)];
+  </script>
+</body>
+</html>

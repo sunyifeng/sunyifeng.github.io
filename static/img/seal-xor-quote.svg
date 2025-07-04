@@ -1,0 +1,18 @@
+<!-- seal-xor-quote.svg -->
+<svg width="120" height="80" viewBox="0 0 120 80" xmlns="http://www.w3.org/2000/svg" fill="none">
+  <!-- XOR 主体：黑色双弧门体 -->
+  <path d="M40 15 Q85 40 40 65 Q50 40 40 15 Z" fill="black"/>
+  <path d="M34 15 Q79 40 34 65" stroke="black" stroke-width="2"/>
+
+  <!-- 输入线 -->
+  <line x1="10" y1="30" x2="38" y2="30" stroke="black" stroke-width="2"/>
+  <line x1="10" y1="50" x2="38" y2="50" stroke="black" stroke-width="2"/>
+
+  <!-- 输出线 -->
+  <line x1="80" y1="40" x2="110" y2="40" stroke="black" stroke-width="2"/>
+
+  <!-- 签名文字 -->
+  <text x="60" y="78" text-anchor="middle" font-size="10" font-style="italic" fill="#444" font-family="Georgia, 'Times New Roman', serif">
+    Truth lies in divergence.
+  </text>
+</svg>

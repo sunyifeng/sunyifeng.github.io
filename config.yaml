@@ -150,3 +150,8 @@ markup:
     # lineNos: true
     # style: monokai
 
+#series settings
+taxonomies:
+  category: categories
+  tag: tags
+  series: series

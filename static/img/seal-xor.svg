@@ -1,0 +1,15 @@
+<!-- seal-xor.svg -->
+<svg width="64" height="64" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" fill="none" stroke="black" stroke-width="3">
+  <!-- XOR 弧外框（主体） -->
+  <path d="M30 20 Q70 50 30 80 Q40 50 30 20 Z" fill="black"/>
+  
+  <!-- XOR 特有的前弧 -->
+  <path d="M24 20 Q64 50 24 80" stroke="black" fill="none" stroke-width="3"/>
+
+  <!-- 输入线 -->
+  <line x1="10" y1="35" x2="28" y2="35" />
+  <line x1="10" y1="65" x2="28" y2="65" />
+
+  <!-- 输出线 -->
+  <line x1="70" y1="50" x2="90" y2="50" stroke="black" />
+</svg>
