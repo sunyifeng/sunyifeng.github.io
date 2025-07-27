@@ -11,8 +11,15 @@
     </image>
     <generator>Hugo -- 0.147.9</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 01 Jul 2025 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 04 Jul 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://sunyifeng.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Getting Started with Hugo</title>
+      <link>https://sunyifeng.github.io/posts/getting-started-with-hugo/</link>
+      <pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://sunyifeng.github.io/posts/getting-started-with-hugo/</guid>
+      <description>Quick installation guide and tips for a clean first Hugo project.</description>
+    </item>
     <item>
       <title>About</title>
       <link>https://sunyifeng.github.io/about/</link>

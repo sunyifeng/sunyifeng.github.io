@@ -11,6 +11,14 @@
     </image>
     <generator>Hugo -- 0.147.9</generator>
     <language>en</language>
+    <lastBuildDate>Fri, 04 Jul 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://sunyifeng.github.io/series/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo Log</title>
+      <link>https://sunyifeng.github.io/series/hugo-log/</link>
+      <pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://sunyifeng.github.io/series/hugo-log/</guid>
+      <description>An ongoing record of discoveries, customizations, and reflections while working with Hugo.</description>
+    </item>
   </channel>
 </rss>
