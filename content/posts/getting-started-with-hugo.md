@@ -5,6 +5,7 @@ series: ["Hugo Log"]
 categories: ["Dev Notes"]
 tags: ["hugo", "static site", "setup"]
 description: "Quick installation guide and tips for a clean first Hugo project."
+comments: true
 ---
 
 I recently decided to use Hugo to build my personal blog. It’s fast, clean, and surprisingly customizable. Below is a condensed guide covering installation on macOS & Ubuntu, common pitfalls, SCSS/SASS support, GitHub Pages deployment, and troubleshooting tips.

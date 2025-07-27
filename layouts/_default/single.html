@@ -59,6 +59,7 @@
     {{- end }}
   </footer>
 
+  {{- /* 只有当在 Front Matter 或全局参数里设置了 comments = true 时，才会渲染下面这行 */ -}}
   {{- if (.Param "comments") }}
   {{- partial "comments.html" . }}
   {{- end }}
