@@ -4,3 +4,7 @@
 [submodule "themes/PaperMod"]
 	path = themes/PaperMod
 	url = https://github.com/adityatelange/hugo-PaperMod.git
+[submodule "themes/PaperMod-exampleSite"]
+	path = themes/PaperMod-exampleSite
+	url = https://github.com/adityatelange/hugo-PaperMod.git
+	branch = exampleSite
